@@ -1,0 +1,62 @@
+{
+  "_from": "freedns-api",
+  "_id": "freedns-api@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-nPi4272je0anyCPNXuFFc6v8/oYFw1eSuq21zyDHPWJs39keZxfuf+tJFk17N8EXSLOI6XgyqLo6A5hCGi1G1Q==",
+  "_location": "/freedns-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "freedns-api",
+    "name": "freedns-api",
+    "escapedName": "freedns-api",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/freedns-api/-/freedns-api-1.0.0.tgz",
+  "_shasum": "c3ba2f1929d358988184e01dd99a1cc60b2d5899",
+  "_spec": "freedns-api",
+  "_where": "C:\\Windows\\system32",
+  "author": {
+    "name": "jchaniotis"
+  },
+  "bugs": {
+    "url": "https://github.com/J-Chaniotis/freedns-api/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "ajv": "^6.2.1",
+    "simple-get": "^2.7.0"
+  },
+  "deprecated": false,
+  "description": "A node.js wrapper around freedns.afraid.org API",
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/J-Chaniotis/freedns-api#readme",
+  "keywords": [
+    "freedns",
+    "dynamic",
+    "dns",
+    "afraid",
+    "api",
+    "node.js",
+    "update"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "freedns-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Chaniotis/freedns-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
